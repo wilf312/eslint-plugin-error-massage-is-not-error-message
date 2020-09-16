@@ -23,7 +23,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/eslint": "7.2.2",
-    "@types/node": "12.12.58",
+    "@types/node": "12.12.59",
     "@typescript-eslint/parser": "4.1.1",
     "eslint": "7.9.0",
     "jest": "26.4.2",
