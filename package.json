@@ -21,6 +21,9 @@
   ],
   "author": "OkadaGenya@WiLF",
   "license": "MIT",
+  "resolutions": {
+    "@types/estree": "0.0.45"
+  },
   "devDependencies": {
     "@types/eslint": "7.2.4",
     "@types/node": "12.19.2",
