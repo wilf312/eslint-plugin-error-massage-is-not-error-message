@@ -27,7 +27,7 @@
   "devDependencies": {
     "@types/eslint": "7.2.4",
     "@types/node": "12.19.3",
-    "@typescript-eslint/parser": "4.6.0",
+    "@typescript-eslint/parser": "4.6.1",
     "eslint": "7.12.1",
     "jest": "26.6.2",
     "rimraf": "3.0.2",
