@@ -22,7 +22,7 @@
   "author": "OkadaGenya@WiLF",
   "license": "MIT",
   "resolutions": {
-    "@types/estree": "0.0.51"
+    "@types/estree": "0.0.52"
   },
   "devDependencies": {
     "@types/eslint": "8.4.3",
